@@ -13,4 +13,5 @@ Features:
 
 ## Test Prototype
 
-Actual program used to test for accuracy (AI Hallucination / Bias rates) as part of the ESP project.
+Simplified program distributed to teammates used to test for accuracy (AI Hallucination / Bias rates) as part of the ESP project.
+Original prototype with fine-tuning consumed too many tokens and was projected to go over budget.
