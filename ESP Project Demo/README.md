@@ -1,4 +1,4 @@
-# Engineering Strategies & Practice (ESP) Project Demo for Team049
+# ESP Project Demo - Team049
 
 Program to translate user inquiry regarding Sandford Fleming Library services into English and generate a response from GPT-4o.\
 Many of the elements are primarily for show and not necessarily efficient. \
